@@ -1,187 +1,313 @@
-# 👋 Hi, I'm Karan V
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Developer;AI+%26+ML+Enthusiast;Web+Application+Developer;Building+Real-World+Software+Solutions" alt="Typing SVG" />
-</p>
+<!--                        ANIMATED GITHUB PROFILE                       -->
 
-<p align="center">
-  <a href="https://karan-portfolio-7704.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/karan-veerakumar-937b2129b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
----
+<div align="center">
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=KARAN%20V&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-I'm **Karan V**, a Computer Science Engineering graduate passionate about building practical software solutions using modern web technologies, Python, and Artificial Intelligence.
+<br>
 
-* 💻 Full Stack & Web Application Development
-* 🐍 Python Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Deep Learning & Computer Vision
-* 🗄️ Database Development
-* 🔧 Backend API Development
-* 🌐 Deployment & Server Management
-* 🚀 Interested in building scalable, real-world applications
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Building+Digital+Experiences+%F0%9F%9A%80;Full+Stack+%7C+Python+%7C+AI%2FML+%7C+Backend;Turning+Ideas+Into+Real-World+Applications+%F0%9F%92%A1" />
 
-I enjoy transforming ideas into functional applications with clean architecture, intuitive interfaces, and reliable backend systems.
+<br>
 
----
+<a href="https://karan-portfolio-7704.web.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logoColor=white" />
+</a>
 
-## 🛠️ Tech Stack
+<a href="https://www.linkedin.com/in/karan-veerakumar-937b2129b">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-### 💻 Programming Languages
+<a href="https://github.com/Vortex1234-cpu">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php" />
-</p>
+<br><br>
 
-### ⚛️ Frameworks & Libraries
+<img src="https://komarev.com/ghpvc/?username=Vortex1234-cpu&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,tensorflow,pytorch" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
-</p>
-
-### ☁️ Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase,nginx" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 👋 Hey, I'm Karan V
 
-### 🤖 AI Food Image Classification & Nutrition Prediction
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  💻 Full Stack Developer                                    │
+│  🐍 Python Developer                                         │
+│  🤖 AI & Machine Learning Enthusiast                         │
+│  🧠 Deep Learning & Computer Vision                          │
+│  🚀 Building Real-World Software                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-An AI-powered system designed to identify food from images and provide nutritional information.
+I'm a Computer Science Engineering professional passionate about building **modern web applications, intelligent systems, and practical software solutions**.
 
-**Technologies:**
-`Python` `PyTorch` `Deep Learning` `Computer Vision` `Swin Transformer` `Flask`
-
----
-
-### 🏠 Real Estate CRM
-
-A real-estate-focused CRM application for managing leads, properties, follow-ups, and business activities from a centralized dashboard.
-
-**Technologies:**
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
----
-
-### 💍 Matrimony Platform
-
-A full-stack matrimonial web application with profile management, authentication, search, membership functionality, and database integration.
-
-**Technologies:**
-`Django` `Python` `PostgreSQL` `HTML` `CSS` `JavaScript`
+I enjoy working across the complete development lifecycle — from designing interfaces and developing APIs to database architecture, AI/ML integration, and deployment.
 
 ---
 
-### 🛍️ EliteHim E-Commerce Platform
+## ⚡ What I Do
 
-A men's e-commerce platform featuring products, categories, search, filtering, cart, wishlist, checkout, and administration.
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:**
-`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+### 💻 Full Stack Development
 
----
+* Responsive Web Applications
+* REST APIs
+* Backend Architecture
+* Database Design
+* Authentication Systems
+* Admin Dashboards
 
-### 🍱 Food Delivery Platform
+</td>
 
-A web-based food ordering platform with restaurant/food listings, cart management, order processing, and user-facing interfaces.
+<td width="50%">
 
-**Technologies:**
-`Django` `Python` `PostgreSQL` `HTML` `CSS` `JavaScript`
+### 🤖 AI & Machine Learning
 
----
+* Computer Vision
+* Deep Learning
+* Image Classification
+* Transformer Models
+* Predictive Systems
+* AI-powered Applications
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Development Tools
+# 🧠 Tech Arsenal
 
-| Category          | Tools                              |
-| ----------------- | ---------------------------------- |
-| IDE               | VS Code                            |
-| Version Control   | Git, GitHub                        |
-| Backend           | Django, Flask, FastAPI, PHP        |
-| Frontend          | HTML5, CSS3, JavaScript, React     |
-| Databases         | MySQL, PostgreSQL, SQLite          |
-| AI/ML             | TensorFlow, PyTorch, Scikit-learn  |
-| Deployment        | Firebase, Render, Linux VPS, Nginx |
-| Local Development | XAMPP                              |
-| Containers        | Docker                             |
+<div align="center">
 
----
+### Languages
 
-## 🎯 Current Focus
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php&theme=dark" />
 
-* 🔭 Building real-world web applications
-* 🤖 Exploring AI/ML and Deep Learning
-* 🧠 Computer Vision applications
-* 💻 Improving Full Stack Development skills
-* 🚀 Developing production-ready software
-* 📚 Continuously learning new technologies
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,tensorflow,pytorch&theme=dark" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase,nginx&theme=dark" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://karan-portfolio-7704.web.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-4285F4?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/karan-veerakumar-937b2129b">
-    <img src="https://img.shields.io/badge/LinkedIn-Karan%20V-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI Food Intelligence
+
+**Food Image Classification & Nutrition Prediction**
+
+An AI-powered system that analyzes food images and provides food identification and nutritional insights.
+
+**Stack**
+
+`Python` `PyTorch` `Deep Learning` `Computer Vision` `Transformers` `Flask`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏠 Real Estate CRM
+
+**Real Estate Management System**
+
+A centralized CRM designed for managing leads, properties, follow-ups, and real-estate business operations.
+
+**Stack**
+
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💍 Matrimony Platform
+
+**Full-Stack Matrimonial Application**
+
+A complete matrimonial platform featuring profiles, authentication, search, membership functionality, and database management.
+
+**Stack**
+
+`Django` `Python` `PostgreSQL` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛍️ EliteHim
+
+**Premium Men's E-Commerce Platform**
+
+An e-commerce platform featuring product discovery, search, filtering, cart, wishlist, checkout, and administration.
+
+**Stack**
+
+`Flask` `Python` `SQLite` `JavaScript`
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 👀 Profile Visitors
+# 🔥 Currently Building
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  🚀 Real Estate CRM                                          │
+│     └─ Lead Management                                       │
+│     └─ Property Management                                   │
+│     └─ Follow-up Tracking                                    │
+│     └─ Real-time Dashboard                                   │
+│                                                              │
+│  🤖 AI / ML Applications                                     │
+│     └─ Computer Vision                                       │
+│     └─ Deep Learning                                         │
+│     └─ Intelligent Automation                                │
+│                                                              │
+│  💻 Full Stack Applications                                  │
+│     └─ PHP / MySQL                                           │
+│     └─ Python / Django / Flask                               │
+│     └─ REST APIs                                              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
 ---
 
-<h3 align="center">💡 Building. Learning. Creating. 🚀</h3>
+# 📊 GitHub Analytics
 
-<p align="center">
-  <i>Thanks for visiting my GitHub profile!</i>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vortex1234-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex1234-cpu&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" width="41%" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vortex1234-cpu&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=94A3B8" width="70%" />
+
+</div>
+
+---
+
+# 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex1234-cpu&bg_color=0D1117&color=FFFFFF&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# 🧰 Developer Toolkit
+
+<div align="center">
+
+| Area            | Technologies                                          |
+| --------------- | ----------------------------------------------------- |
+| 👨‍💻 Languages | Python · Java · C · JavaScript · PHP                  |
+| 🎨 Frontend     | HTML5 · CSS3 · JavaScript · React                     |
+| ⚙️ Backend      | Django · Flask · FastAPI · PHP                        |
+| 🤖 AI / ML      | TensorFlow · PyTorch · Scikit-learn · Computer Vision |
+| 🗄️ Database    | MySQL · PostgreSQL · SQLite                           |
+| ☁️ Deployment   | Firebase · Render · Linux VPS · Nginx                 |
+| 🛠️ Tools       | Git · GitHub · VS Code · Docker · XAMPP               |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+[████████████████████░░] 90%  Build production-ready applications
+[██████████████████░░░░] 80%  Improve AI / ML expertise
+[████████████████░░░░░░] 75%  Master advanced backend architecture
+[███████████████░░░░░░░] 70%  Build scalable SaaS products
+[████████████░░░░░░░░░░] 60%  Contribute to Open Source
+```
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://karan-portfolio-7704.web.app/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Explore%20My%20Work-06B6D4?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/karan-veerakumar-937b2129b">
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Vortex1234-cpu">
+<img src="https://img.shields.io/badge/💻%20GITHUB-Explore%20My%20Code-181717?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Code. Build. Learn. Repeat. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
