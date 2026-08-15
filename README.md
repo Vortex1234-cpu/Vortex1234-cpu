@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **KARAN V**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:22D3EE&height=180&section=header&text=KARAN%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20Python%20%7C%20AI%2FML%20Developer&descAlignY=58&descSize=18" alt="Header Banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=Full+Stack+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+API+Developer;Building+Real-World+Software+%F0%9F%9A%80" alt="Karan V - Animated Typing" />
 
@@ -104,6 +104,10 @@ I enjoy taking an idea from **concept → architecture → development → datab
 ### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase,nginx&theme=dark" alt="Tools and Platforms"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/main/bounce-icons.svg" alt="Bouncing Tech Icons" width="100%"/>
 
 </div>
 
@@ -213,6 +217,10 @@ Exploring practical AI applications involving computer vision, automation, predi
 
 # 🔭 Currently Building
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Shipping+one+feature+at+a+time...;Always+learning%2C+always+building." alt="Currently Building Typing" />
+</div>
+
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
@@ -284,6 +292,26 @@ Exploring practical AI applications involving computer vision, automation, predi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
 </picture>
+
+</div>
+
+---
+
+# 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vortex1234-cpu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
