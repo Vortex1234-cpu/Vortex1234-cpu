@@ -287,6 +287,8 @@ Exploring practical AI applications involving computer vision, automation, predi
 
 </div>
 
+> ⚠️ This image only appears once the workflow below has run at least once on your repo (see setup note under Connect With Me).
+
 ---
 
 # 🎯 2026 Developer Goals
@@ -294,7 +296,7 @@ Exploring practical AI applications involving computer vision, automation, predi
 ```text
 🚀 Build production-ready applications       ████████████████████░░  90%
 🤖 Improve AI / ML expertise                  ██████████████████░░░░  80%
-⚙️ Master backend architecture                █████████████████░░░░░  75%
+⚙️ Master backend architecture                █████████████████░░░░░░  75%
 🌐 Build scalable SaaS applications            ████████████████░░░░░░  70%
 🌎 Contribute to Open Source                  ██████████████░░░░░░░░  60%
 ```
@@ -355,12 +357,17 @@ Exploring practical AI applications involving computer vision, automation, predi
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vortex1234-cpu&label=VISITORS&color=22D3EE&style=flat-square" alt="Visitors"/>
-
-<br><br>
-
 ### ⭐ Thanks for visiting my profile!
 
 **Let's build something awesome together. 🚀**
 
 </div>
+
+<!--
+SETUP NOTE (remove this comment once done):
+The snake animation above needs a GitHub Action to generate it.
+Add the included snake.yml file to: .github/workflows/snake.yml
+in this same Vortex1234-cpu/Vortex1234-cpu repo, commit it, then
+run it once from the Actions tab (or push a commit) to create the
+"output" branch and the SVG files this README points to.
+-->
