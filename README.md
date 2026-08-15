@@ -1,56 +1,51 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                        ANIMATED GITHUB PROFILE                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=220&section=header&text=KARAN%20V&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm **KARAN V**
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Building+Digital+Experiences+%F0%9F%9A%80;Full+Stack+%7C+Python+%7C+AI%2FML+%7C+Backend;Turning+Ideas+Into+Real-World+Applications+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=Full+Stack+Developer;Python+Developer;AI+%26+Machine+Learning+Enthusiast;Backend+%26+API+Developer;Building+Real-World+Software+%F0%9F%9A%80" alt="Karan V - Animated Typing" />
 
 <br>
 
 <a href="https://karan-portfolio-7704.web.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20My%20Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/karan-veerakumar-937b2129b">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/Vortex1234-cpu">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-Vortex1234--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Vortex1234-cpu&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Vortex1234-cpu&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Karan V
+## 🧑‍💻 About Me
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  💻 Full Stack Developer                                    │
-│  🐍 Python Developer                                         │
-│  🤖 AI & Machine Learning Enthusiast                         │
-│  🧠 Deep Learning & Computer Vision                          │
-│  🚀 Building Real-World Software                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  👨‍💻  Full Stack Developer                                │
+│  🐍  Python Developer                                      │
+│  🤖  AI & Machine Learning Enthusiast                      │
+│  🧠  Deep Learning & Computer Vision                       │
+│  ⚙️  Backend & API Development                             │
+│  🚀  Building Real-World Software Solutions                │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
-I'm a Computer Science Engineering professional passionate about building **modern web applications, intelligent systems, and practical software solutions**.
+I'm **Karan V**, a Computer Science Engineering professional passionate about creating practical, scalable, and intelligent software solutions.
 
-I enjoy working across the complete development lifecycle — from designing interfaces and developing APIs to database architecture, AI/ML integration, and deployment.
+My interests span **full-stack development, Python, artificial intelligence, machine learning, computer vision, backend systems, databases, and deployment**.
+
+I enjoy taking an idea from **concept → architecture → development → database → deployment** and turning it into a usable product.
 
 ---
 
@@ -58,29 +53,31 @@ I enjoy working across the complete development lifecycle — from designing int
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Full Stack Development
 
-* Responsive Web Applications
+* Responsive web applications
+* Backend development
 * REST APIs
-* Backend Architecture
-* Database Design
-* Authentication Systems
-* Admin Dashboards
+* Authentication systems
+* Admin dashboards
+* Database architecture
+* Business management systems
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+### 🤖 AI / ML Development
 
-* Computer Vision
+* Machine Learning
 * Deep Learning
+* Computer Vision
 * Image Classification
-* Transformer Models
-* Predictive Systems
-* AI-powered Applications
+* Transformer architectures
+* AI-powered applications
+* Intelligent automation
 
 </td>
 </tr>
@@ -88,33 +85,31 @@ I enjoy working across the complete development lifecycle — from designing int
 
 ---
 
-# 🧠 Tech Arsenal
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php&theme=dark" alt="Programming Languages"/>
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & AI
 
-<img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,django,flask,fastapi,tensorflow,pytorch&theme=dark" alt="Frameworks and AI"/>
 
-### Databases
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="Databases"/>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,firebase,nginx&theme=dark" alt="Tools and Platforms"/>
 
 </div>
 
 ---
 
 # 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
@@ -123,11 +118,11 @@ I enjoy working across the complete development lifecycle — from designing int
 
 ## 🤖 AI Food Intelligence
 
-**Food Image Classification & Nutrition Prediction**
+### Food Image Classification & Nutrition Prediction
 
-An AI-powered system that analyzes food images and provides food identification and nutritional insights.
+AI-powered food recognition and dietary analysis system designed to identify food images and provide nutritional insights.
 
-**Stack**
+**Technologies**
 
 `Python` `PyTorch` `Deep Learning` `Computer Vision` `Transformers` `Flask`
 
@@ -137,13 +132,13 @@ An AI-powered system that analyzes food images and provides food identification 
 
 ## 🏠 Real Estate CRM
 
-**Real Estate Management System**
+### Real Estate Management System
 
-A centralized CRM designed for managing leads, properties, follow-ups, and real-estate business operations.
+CRM designed for managing real-estate leads, properties, follow-ups, and business activities through a centralized dashboard.
 
-**Stack**
+**Technologies**
 
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+`PHP` `MySQL` `JavaScript` `HTML5` `CSS3`
 
 </td>
 
@@ -155,11 +150,11 @@ A centralized CRM designed for managing leads, properties, follow-ups, and real-
 
 ## 💍 Matrimony Platform
 
-**Full-Stack Matrimonial Application**
+### Full-Stack Matrimonial Application
 
-A complete matrimonial platform featuring profiles, authentication, search, membership functionality, and database management.
+Matrimonial platform with profile management, authentication, search, membership functionality, and database integration.
 
-**Stack**
+**Technologies**
 
 `Django` `Python` `PostgreSQL` `JavaScript`
 
@@ -169,43 +164,75 @@ A complete matrimonial platform featuring profiles, authentication, search, memb
 
 ## 🛍️ EliteHim
 
-**Premium Men's E-Commerce Platform**
+### Premium Men's E-Commerce Platform
 
-An e-commerce platform featuring product discovery, search, filtering, cart, wishlist, checkout, and administration.
+E-commerce application with product management, search, filters, cart, wishlist, checkout, and administration.
 
-**Stack**
+**Technologies**
 
 `Flask` `Python` `SQLite` `JavaScript`
 
 </td>
 
 </tr>
-</table>
 
-</div>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍱 Food Delivery Platform
+
+### Online Food Ordering System
+
+Food ordering platform with restaurant/food discovery, cart management, order processing, and user-facing interfaces.
+
+**Technologies**
+
+`Django` `Python` `PostgreSQL` `HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 AI Applications
+
+### Intelligent Software Systems
+
+Exploring practical AI applications involving computer vision, automation, prediction, and intelligent decision-making.
+
+**Technologies**
+
+`Python` `PyTorch` `TensorFlow` `OpenCV` `Scikit-learn`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🔥 Currently Building
+# 🔭 Currently Building
 
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│  🚀 Real Estate CRM                                          │
-│     └─ Lead Management                                       │
-│     └─ Property Management                                   │
-│     └─ Follow-up Tracking                                    │
-│     └─ Real-time Dashboard                                   │
+│  🏠 REAL ESTATE CRM                                          │
+│     ├── Lead Management                                      │
+│     ├── Property Management                                  │
+│     ├── Follow-up Tracking                                   │
+│     └── Real-time Dashboard                                  │
 │                                                              │
-│  🤖 AI / ML Applications                                     │
-│     └─ Computer Vision                                       │
-│     └─ Deep Learning                                         │
-│     └─ Intelligent Automation                                │
+│  🤖 AI / ML APPLICATIONS                                     │
+│     ├── Computer Vision                                      │
+│     ├── Deep Learning                                        │
+│     ├── Image Classification                                 │
+│     └── Intelligent Automation                               │
 │                                                              │
-│  💻 Full Stack Applications                                  │
-│     └─ PHP / MySQL                                           │
-│     └─ Python / Django / Flask                               │
-│     └─ REST APIs                                              │
+│  💻 FULL STACK APPLICATIONS                                  │
+│     ├── Python / Django / Flask                              │
+│     ├── PHP / MySQL                                          │
+│     ├── REST APIs                                             │
+│     └── Production Deployment                                │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -216,41 +243,61 @@ An e-commerce platform featuring product discovery, search, filtering, cart, wis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vortex1234-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF" width="49%" />
+<a href="https://github.com/Vortex1234-cpu">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vortex1234-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Karan's GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex1234-cpu&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF" width="41%" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vortex1234-cpu&hide_border=true&background=0D1117&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE&sideLabels=FFFFFF&dates=94A3B8" width="70%" />
+<a href="https://github.com/Vortex1234-cpu">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex1234-cpu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Karan's Top Languages"/>
+</a>
 
 </div>
 
 ---
 
-# 🐍 Contribution Animation
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://streak-stats.demolab.com?user=Vortex1234-cpu&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 My GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex1234-cpu&bg_color=0D1117&color=FFFFFF&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vortex1234-cpu&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%">
+</picture>
+
+</div>
+
+---
+
+# 🎯 2026 Developer Goals
+
+```text
+🚀 Build production-ready applications       ████████████████████░░  90%
+🤖 Improve AI / ML expertise                  ██████████████████░░░░  80%
+⚙️ Master backend architecture                █████████████████░░░░░  75%
+🌐 Build scalable SaaS applications            ████████████████░░░░░░  70%
+🌎 Contribute to Open Source                  ██████████████░░░░░░░░  60%
+```
 
 ---
 
@@ -258,56 +305,62 @@ An e-commerce platform featuring product discovery, search, filtering, cart, wis
 
 <div align="center">
 
-| Area            | Technologies                                          |
-| --------------- | ----------------------------------------------------- |
-| 👨‍💻 Languages | Python · Java · C · JavaScript · PHP                  |
-| 🎨 Frontend     | HTML5 · CSS3 · JavaScript · React                     |
-| ⚙️ Backend      | Django · Flask · FastAPI · PHP                        |
-| 🤖 AI / ML      | TensorFlow · PyTorch · Scikit-learn · Computer Vision |
-| 🗄️ Database    | MySQL · PostgreSQL · SQLite                           |
-| ☁️ Deployment   | Firebase · Render · Linux VPS · Nginx                 |
-| 🛠️ Tools       | Git · GitHub · VS Code · Docker · XAMPP               |
+|     Category    | Technologies                                 |
+| :-------------: | :------------------------------------------- |
+| 👨‍💻 Languages | Python · Java · C · JavaScript · PHP         |
+|   🎨 Frontend   | HTML5 · CSS3 · JavaScript · React            |
+|    ⚙️ Backend   | Django · Flask · FastAPI · PHP               |
+|    🤖 AI / ML   | TensorFlow · PyTorch · Scikit-learn · OpenCV |
+|  🗄️ Databases  | MySQL · PostgreSQL · SQLite                  |
+|  ☁️ Deployment  | Firebase · Render · Linux VPS · Nginx        |
+|  🔧 Development | Git · GitHub · VS Code · Docker · XAMPP      |
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 💡 Development Philosophy
 
-```text
-[████████████████████░░] 90%  Build production-ready applications
-[██████████████████░░░░] 80%  Improve AI / ML expertise
-[████████████████░░░░░░] 75%  Master advanced backend architecture
-[███████████████░░░░░░░] 70%  Build scalable SaaS products
-[████████████░░░░░░░░░░] 60%  Contribute to Open Source
-```
+<div align="center">
+
+### `Learn → Build → Break → Debug → Improve → Repeat`
+
+<br>
+
+> **"Don't just learn technology. Build something useful with it."**
+
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://karan-portfolio-7704.web.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Explore%20My%20Work-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Explore%20My%20Work-06B6D4?style=for-the-badge" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/karan-veerakumar-937b2129b">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-Karan%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Vortex1234-cpu">
-<img src="https://img.shields.io/badge/💻%20GITHUB-Explore%20My%20Code-181717?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-Vortex1234--cpu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 Code. Build. Learn. Repeat. 🚀
+<img src="https://komarev.com/ghpvc/?username=Vortex1234-cpu&label=VISITORS&color=22D3EE&style=flat-square" alt="Visitors"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something awesome together. 🚀**
 
 </div>
