@@ -17,8 +17,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: Vortex1234-cpu
+          USERNAME: Vortex1234-cpu
 
       - name: Commit generated SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
