@@ -287,8 +287,6 @@ Exploring practical AI applications involving computer vision, automation, predi
 
 </div>
 
-> ⚠️ This image only appears once the workflow below has run at least once on your repo (see setup note under Connect With Me).
-
 ---
 
 # 🎯 2026 Developer Goals
@@ -362,12 +360,3 @@ Exploring practical AI applications involving computer vision, automation, predi
 **Let's build something awesome together. 🚀**
 
 </div>
-
-<!--
-SETUP NOTE (remove this comment once done):
-The snake animation above needs a GitHub Action to generate it.
-Add the included snake.yml file to: .github/workflows/snake.yml
-in this same Vortex1234-cpu/Vortex1234-cpu repo, commit it, then
-run it once from the Actions tab (or push a commit) to create the
-"output" branch and the SVG files this README points to.
--->
