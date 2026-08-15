@@ -1,0 +1,27 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: Vortex1234-cpu
+
+      - name: Commit generated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 3D contribution graph"
+          file_pattern: "profile-3d-contrib/*.svg"
