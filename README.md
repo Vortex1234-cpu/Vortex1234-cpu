@@ -1,247 +1,274 @@
 # 👋 Hi, I'm Karan V
 
-### AI/ML Engineer • Full-Stack Developer • Python Developer
+### AI/ML Engineer · Full-Stack Developer · Python Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Real-World+Software;AI+%7C+ML+%7C+Full-Stack+Development;Python+%7C+Flask+%7C+Django+%7C+React;Turning+Ideas+Into+Working+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Real-World+Software;AI+%7C+Machine+Learning+%7C+Deep+Learning;Python+%7C+Django+%7C+Flask+%7C+React;Turning+Ideas+Into+Production-Ready+Applications" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://karanv.in">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-karanv.in-00D9FF?style=for-the-badge" />
   </a>
-  <a href="https://github.com/karanv">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Vortex1234-cpu">
+    <img src="https://img.shields.io/badge/GitHub-Vortex1234--cpu-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm **Karan V**, a Computer Science Engineering graduate focused on building practical software using **Artificial Intelligence, Machine Learning, Python, and Full-Stack technologies**.
+I'm **Karan V**, a Computer Science developer focused on building practical applications with **AI, Machine Learning, Python, and Full-Stack technologies**.
 
-I enjoy taking an idea from:
+I enjoy transforming ideas into complete software products — from designing the architecture and database to building the frontend, backend, APIs, AI models, and deployment.
 
-**💡 Concept → 🧠 Architecture → 💻 Development → 🗄️ Database → 🚀 Deployment**
+```text
+Idea
+  ↓
+Architecture
+  ↓
+Development
+  ↓
+AI / Business Logic
+  ↓
+Database & APIs
+  ↓
+Testing
+  ↓
+Deployment
+  ↓
+Real-World Product 🚀
+```
 
-My goal is to build software that solves real-world problems rather than just creating demo projects.
+### What I build
 
-* 🤖 Interested in **AI/ML & Deep Learning**
-* 🐍 Strong focus on **Python Development**
-* 🌐 Building **Full-Stack Web Applications**
-* 🧠 Exploring **Computer Vision & NLP**
-* 🔧 Developing **Business Management Systems & CRMs**
-* ☁️ Interested in **Deployment, APIs & Cloud Technologies**
-* 📚 Continuously learning and improving
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-**Libraries & Tools**
-
-`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib` • `Keras` • `Pillow` • `Transformers`
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,firebase" />
-</p>
-
-### ☁️ Tools & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,nginx,postman" />
-</p>
+* 🤖 AI & Machine Learning applications
+* 🧠 Deep Learning & Computer Vision systems
+* 🌐 Full-Stack Web Applications
+* 🏢 ERP & Business Management Systems
+* 🏠 Real Estate CRM platforms
+* 🛒 E-Commerce platforms
+* 🔌 REST APIs & backend systems
+* 📊 Admin dashboards & analytics systems
 
 ---
 
-# 🔥 Featured Projects
+# ⚡ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,javascript" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+```text
+NumPy · Pandas · Scikit-learn · Keras · Pillow
+Computer Vision · Deep Learning · NLP · Transformers
+```
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,firebase" />
+</p>
+
+### Tools & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,nginx,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ## 🏫 School Management ERP
 
-A complete school management platform designed to centralize academic and administrative operations.
+A complete management platform designed to digitize school administration and academic operations.
 
-**Features**
+**Core Modules**
 
-* 👨‍🎓 Student Management
-* 👨‍🏫 Teacher Management
-* 📚 Classes & Subjects
-* 📝 Attendance
-* 💰 Fees Management
-* 📊 Dashboard & Reports
-* 🔐 Role-Based Access
-* 📈 Real-Time Statistics
+`Students` · `Teachers` · `Attendance` · `Classes` · `Subjects` · `Fees` · `Reports` · `Dashboard`
 
-**Focus:** Full-Stack Development • ERP Architecture • Database Management
+**Focus:** ERP Architecture · Authentication · Database Management · Business Automation
 
 ---
 
 ## 🏠 Real Estate CRM
 
-A CRM platform designed for real estate businesses to manage leads, properties, follow-ups and sales operations.
+A business-focused CRM for managing real estate leads, properties, follow-ups, and sales activities.
 
-**Features**
+**Core Modules**
 
-* 👥 Lead Management
-* 🏘️ Property Management
-* 📞 Follow-Up Management
-* 🔎 Property Search & Matching
-* 📊 Real-Time Dashboard
-* 📈 Sales Tracking
-* 🔐 User Authentication
-* 🔌 API Integration
+`Leads` · `Properties` · `Follow-Ups` · `Property Matching` · `Dashboard` · `Reports` · `APIs`
 
-**Focus:** CRM • Business Automation • REST APIs • Real-Time Dashboard
+**Focus:** CRM Development · REST APIs · Real-Time Dashboard · Business Workflow Automation
 
 ---
 
-## 🍎 AI Food Image Classification & Nutrition Analysis
+## 🍎 AI Food Classification & Nutrition Analysis
 
-An AI-based system for recognizing food from images and providing nutritional information.
+An AI-powered system designed to recognize food from images and provide nutritional analysis.
 
-**Technologies**
+**Technology**
 
-`Python` • `PyTorch` • `Computer Vision` • `Deep Learning` • `Transformers` • `Flask`
-
-**Concept**
+`Python` · `PyTorch` · `Deep Learning` · `Computer Vision` · `Transformers` · `Flask`
 
 ```text
 Food Image
     ↓
-Image Preprocessing
+Preprocessing
     ↓
-Deep Learning Model
+AI Model
     ↓
 Food Classification
     ↓
 Nutrition Analysis
     ↓
-Calories & Dietary Information
+Dietary Information
 ```
 
 ---
 
 ## 🛍️ EliteHim — E-Commerce Platform
 
-A premium men's e-commerce platform with complete shopping functionality.
+A full-stack men's e-commerce platform with shopping, authentication, product management, and administration features.
 
 **Features**
 
-* 🛒 Shopping Cart
-* ❤️ Wishlist
-* 🔍 Product Search
-* 🏷️ Categories & Filters
-* 💳 Payment Integration
-* 👤 User Authentication
-* 📦 Order Management
-* 🛠️ Admin Dashboard
+* Product catalog
+* Search & filtering
+* Shopping cart
+* Wishlist
+* Checkout
+* User authentication
+* Order management
+* Admin dashboard
 
-**Stack:** Flask • SQLite • HTML • CSS • JavaScript
+**Stack:** `Flask` · `SQLite` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
 ## 💍 Matrimony Platform
 
-A full-stack matrimonial platform with profile management, search, authentication and membership functionality.
+A full-stack matrimonial platform focused on profile management, search, authentication, media handling, and membership functionality.
 
-**Stack**
-
-`Django` • `PostgreSQL` • `Cloudinary` • `HTML` • `CSS` • `JavaScript`
+**Stack:** `Django` · `PostgreSQL` · `Cloudinary` · `JavaScript`
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karanv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanv&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karanv&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🧠 Currently Learning
+# 🧠 Currently Exploring
 
 ```text
-AI Engineering
-      ↓
+Artificial Intelligence
+        ↓
 Deep Learning
-      ↓
+        ↓
 Computer Vision
-      ↓
+        ↓
 Generative AI
-      ↓
+        ↓
 LLM Applications
-      ↓
+        ↓
 AI Agents
-      ↓
-Production Deployment
+        ↓
+Production AI Systems
 ```
 
-I'm particularly interested in combining **AI + Software Engineering** to create useful production-ready applications.
+I'm particularly interested in the intersection of:
+
+**AI + Software Engineering + Business Automation**
 
 ---
 
-# 🎯 My Development Philosophy
+# 📊 GitHub Activity
 
-> **Don't just build projects. Build solutions.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vortex1234-cpu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vortex1234-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
 
-I focus on:
-
-* Clean and maintainable code
-* Practical problem solving
-* Scalable architecture
-* Responsive user interfaces
-* Secure backend systems
-* API-driven applications
-* AI-powered automation
-* Production-ready deployment
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vortex1234-cpu&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vortex1234-cpu/Vortex1234-cpu/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+# 🎯 Development Philosophy
+
+> **Build solutions, not just projects.**
+
+I believe good software should be:
+
+```text
+Simple
+  +
+Useful
+  +
+Scalable
+  +
+Maintainable
+  +
+Secure
+  +
+Deployable
+        ↓
+   Real Software 🚀
+```
+
+---
+
+# 💼 What I Can Build
+
+| Area          | Solutions                                                  |
+| ------------- | ---------------------------------------------------------- |
+| 🤖 AI/ML      | Classification, prediction, computer vision, AI automation |
+| 🌐 Web        | Full-stack websites and web applications                   |
+| 🏢 Business   | ERP, CRM, management systems                               |
+| 🛒 E-Commerce | Stores, carts, orders, admin panels                        |
+| 🔌 Backend    | REST APIs, authentication, databases                       |
+| 📊 Dashboards | Analytics, reports, real-time statistics                   |
+| 🚀 Deployment | VPS, Linux, Nginx, application deployment                  |
+
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
 
 <a href="https://karanv.in">
-<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-karanv.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/karan-v">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/karanv">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Vortex1234-cpu">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -250,10 +277,10 @@ I focus on:
 
 <p align="center">
 
-### 💻 Code. 🤖 Innovate. 🚀 Deploy.
+### 💻 Build · 🤖 Learn · 🚀 Deploy
 
 **Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and projects.
+⭐ Explore my repositories and let's build something useful.
 
 </p>
